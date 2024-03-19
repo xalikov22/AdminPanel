@@ -1,0 +1,17 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.active>div {
+    background-color: gray;
+}
+
+.inputt {
+    outline: none;
+    padding-left: 15px;
+    // background-color: aquamarine;
+    color: black;
+    width: 200px;
+    height: 30px;
+}
